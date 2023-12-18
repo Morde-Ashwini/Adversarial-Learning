@@ -14,6 +14,11 @@ Our model is trained on the Cheminformatics Elsevier Melbourne University datase
 
 The dataset provides a rich resource for training and evaluating our model's ability to recognize and classify various chemical entities within the context of chemical reactions.
 
+## Install Instruction
+
+## Run Instruction
+
+
 ## Method
 ### Tokenization
 
@@ -46,3 +51,11 @@ Our model leverages BIO-BERT for feature extraction, capturing rich contextual i
 ### Output Layer
 
 The final layer of our model produces probabilities for each class. These probabilities guide the model in determining the most likely label for a given input during the classification process. This meticulous architecture combining BIO-BERT and BiLSTM contributes to the model's effectiveness in recognizing and classifying entities within the input text.
+
+## Results
+
+
+## Authors
+1. Ashwini Morde
+2. Bharadwaj A S
+3. Brandon Mohan
