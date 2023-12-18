@@ -31,7 +31,7 @@ Tokens are organized into sentences for effective processing. Synonym replacemen
 
 To meet the fixed length requirements of the model, sentences undergo padding or truncation, ensuring uniformity in input data processing.
 
-# Label Encoding
+### Label Encoding
 
 The system converts textual labels into numerical representations, a crucial step for the model to comprehend and categorize entities during the classification task.
 
