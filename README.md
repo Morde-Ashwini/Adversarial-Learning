@@ -62,7 +62,7 @@ Results of 1% probability of Synonym Replacement
 
 ![image](https://github.com/Morde-Ashwini/Adversarial-Learning/assets/122468278/c2c6f7a5-aeb4-4d4f-aa02-fc1e102a16af)
 
-For Results of 33% and 99% probability of Synonym Replacement, please chnage the parameter zero_division to 33 and 99 respectively in the code.
+For Results of 33% and 99% probability of Synonym Replacement, please chnage the parameter SYNONYM_PROB to 33 and 99 respectively in the code.
 
 
 ## Authors
