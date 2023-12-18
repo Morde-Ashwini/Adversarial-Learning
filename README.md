@@ -15,9 +15,12 @@ Our model is trained on the Cheminformatics Elsevier Melbourne University datase
 The dataset provides a rich resource for training and evaluating our model's ability to recognize and classify various chemical entities within the context of chemical reactions.
 
 ## Install Instruction
+1. To convert the extracted chemical entity data into a CSV file, we first processed a sample text using a specialized NER (Named Entity Recognition) model to identify and extract chemical entities. This data, along with the original text, was stored in a structured format—a list of dictionaries. Each dictionary represented a set of extracted data from the text. We combined all the text files into one csv file using python code.
+2. Please open the code in Google Colab or Jupyter Notebook and place the dataset into the same folder.
+
 
 ## Run Instruction
-
+Download the code file : finally_working_BIO_BISLTM_NER_ADV_NLTK_VFinal and Run the code by clicking on the Run all Cells the reults will generate
 
 ## Method
 ### Tokenization
