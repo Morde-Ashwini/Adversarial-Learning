@@ -54,6 +54,16 @@ The final layer of our model produces probabilities for each class. These probab
 
 ## Results
 
+Results of 1% probability of Synonym Replacement
+
+![image](https://github.com/Morde-Ashwini/Adversarial-Learning/assets/122468278/44b786d8-9e9b-407c-89e5-eabbaefdd3af)
+
+![image](https://github.com/Morde-Ashwini/Adversarial-Learning/assets/122468278/a1b765ef-429a-4bd3-96f7-839a3d769b2a)
+
+![image](https://github.com/Morde-Ashwini/Adversarial-Learning/assets/122468278/c2c6f7a5-aeb4-4d4f-aa02-fc1e102a16af)
+
+For Results of 33% and 99% probability of Synonym Replacement, please chnage the parameter zero_division to 33 and 99 respectively in the code.
+
 
 ## Authors
 1. Ashwini Morde
